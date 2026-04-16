@@ -1,0 +1,21 @@
+Lumisound
+Real-time audio spectrogram for iPhone.
+
+Contact
+For support, questions, or feedback, email: me@benjilofi.com
+
+Frequently Asked Questions:
+
+Why does Lumisound need microphone access?
+Microphone access is required for real-time audio analysis. Audio is processed entirely on your device and is never stored or transmitted anywhere.
+
+Why does Lumisound need Photos access?
+Photos access is only requested when you tap the Save button to export a spectrogram image to your camera roll. It is never accessed otherwise.
+
+The app isn't responding to sound. What should I check?
+Make sure microphone permission is enabled in Settings → Privacy & Security → Microphone → Lumisound.
+
+How do I export a spectrogram?
+Tap the Save button after recording. The full session will be saved as a high-resolution image to your Photos library.
+
+Lumisound by Benjilofi
